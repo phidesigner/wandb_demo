@@ -1,0 +1,49 @@
+{
+    "os": "Linux-6.2.0-1014-azure-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-10-24T17:20:37.695137",
+    "startedAt": "2023-10-24T17:20:32.578238",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/phidesigner/wandb_demo",
+        "commit": "e0a1e95c3a50d72d63f7a0885963783bfe8db36a"
+    },
+    "email": "phi.designer@gmail.com",
+    "root": "/workspaces/wandb_demo",
+    "host": "codespaces-b941ba",
+    "username": "codespace",
+    "executable": "/opt/conda/envs/hc_opioid/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 3010.531,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3243.091,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3242.844,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 31.32598876953125,
+            "used": 18.879135131835938
+        }
+    },
+    "memory": {
+        "total": 7.744121551513672
+    }
+}
