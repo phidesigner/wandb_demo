@@ -1,0 +1,51 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.9.18
+    cli_version: 0.15.11
+    framework: sklearn
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1698182277.615511
+    t:
+      1:
+      - 5
+      - 53
+      - 55
+      2:
+      - 5
+      - 53
+      - 55
+      3:
+      - 2
+      - 13
+      - 23
+      4: 3.9.18
+      5: 0.15.11
+      8:
+      - 1
+      - 5
+      13: linux-x86_64
+    viz:
+      outlier_candidates:
+        id: wandb/outliers/v1
+        historyFieldSettings:
+          x-axis: _step
+          key: outlier_candidates
+      summary_metrics:
+        id: wandb/metrics/v1
+        historyFieldSettings:
+          x-axis: _step
+          key: summary_metrics
+      learning_curve:
+        id: wandb/learning_curve/v1
+        historyFieldSettings:
+          x-axis: _step
+          key: learning_curve
+      residuals:
+        id: wandb/residuals_plot/v1
+        historyFieldSettings:
+          x-axis: _step
+          key: residuals
