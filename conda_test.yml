@@ -1,4 +1,0 @@
-name: test
-channels:
-  - defaults
-prefix: /opt/conda/envs/test
