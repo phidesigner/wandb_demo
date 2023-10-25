@@ -1,0 +1,49 @@
+{
+    "os": "Linux-6.2.0-1015-azure-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-10-25T21:20:56.961138",
+    "startedAt": "2023-10-25T21:20:56.482723",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "02_opiod_wandb.ipynb",
+    "codePathLocal": "02_opiod_wandb.ipynb",
+    "git": {
+        "remote": "https://github.com/phidesigner/wandb_demo",
+        "commit": "d651f480e85c2f916ba7129ac64aab5f1265dd41"
+    },
+    "email": "phi.designer@gmail.com",
+    "root": "/workspaces/wandb_demo",
+    "host": "codespaces-b941ba",
+    "username": "codespace",
+    "executable": "/opt/conda/envs/hc_opioid/bin/python",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 3244.255,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3245.471,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3243.039,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 31.32598876953125,
+            "used": 19.376056671142578
+        }
+    },
+    "memory": {
+        "total": 7.744121551513672
+    }
+}
