@@ -23,4 +23,3 @@ dependencies:
       - shap==0.42.1
       - witwidget==1.8.1
       - wandb==0.15.12
-      - weave==0.26.0
