@@ -1,0 +1,12 @@
+wandb_version: 1
+
+C:
+  value: 0.1
+class_weight:
+  value: null
+max_iter:
+  value: 100
+penalty:
+  value: l2
+solver:
+  value: saga

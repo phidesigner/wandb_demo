@@ -1,0 +1,12 @@
+wandb_version: 1
+
+C:
+  value: 1
+class_weight:
+  value: balanced
+max_iter:
+  value: 300
+penalty:
+  value: l1
+solver:
+  value: liblinear
