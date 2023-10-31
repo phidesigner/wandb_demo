@@ -42,3 +42,7 @@ Thumbs.db
 # Ignore wandb settings file #
 ##############################
 wandb/settings
+
+# Ignore wandb sync folder #
+############################
+/wandb
