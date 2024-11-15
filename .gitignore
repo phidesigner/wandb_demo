@@ -46,3 +46,8 @@ wandb/settings
 # Ignore wandb sync folder #
 ############################
 /wandb
+
+
+# Ignore prof solution #
+############################
+05_Bayes_exercise_prof.ipynb
