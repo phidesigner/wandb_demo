@@ -22,4 +22,4 @@ dependencies:
       - lime==0.2.0.1
       - shap==0.42.1
       - witwidget==1.8.1
-      - wandb==0.15.12
+      - wandb==0.18.7
